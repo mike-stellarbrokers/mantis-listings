@@ -1,1 +1,47 @@
+name: Sync Mantis listings
 
+# Runs the fetch-listings.js script on GitHub's own servers, on a schedule,
+# and commits the refreshed listings.json back to the repo. No local
+# computer or terminal needed once this is in place.
+#
+# Requires two repository secrets (Settings > Secrets and variables >
+# Actions): MANTIS_AGENCY_ID and MANTIS_API_KEY.
+
+on:
+  schedule:
+    # Runs at the top of every hour (UTC). GitHub may delay a few minutes
+    # under load — that's normal. Adjust if hourly is more/less than needed.
+    - cron: "0 * * * *"
+  workflow_dispatch: {} # lets you trigger a sync manually from the Actions tab
+
+permissions:
+  contents: write # needed so the workflow can commit listings.json back
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run sync
+        env:
+          MANTIS_AGENCY_ID: ${{ secrets.MANTIS_AGENCY_ID }}
+          MANTIS_API_KEY: ${{ secrets.MANTIS_API_KEY }}
+          MANTIS_INCLUDE_SOLD: "true"
+        run: node fetch-listings.js
+
+      - name: Commit updated listings.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add listings.json
+          git diff --staged --quiet || git commit -m "Sync listings from MantisProperty [skip ci]"
+          git push
+
+          Add sync workflow content", and commit directly to main.
