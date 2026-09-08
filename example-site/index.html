@@ -65,7 +65,7 @@
   // In the real site this fetches the static listings.json that the
   // sync script (fetch-listings.js) produces on a schedule — never the
   // Mantis API directly, since that would expose the API key.
-  fetch("/listings.json")
+  fetch("../listings.json")
     .then((r) => {
       if (!r.ok) throw new Error("listings.json not found — run `npm run sync` first");
       return r.json();
