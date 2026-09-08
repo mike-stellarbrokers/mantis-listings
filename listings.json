@@ -1,13 +1,55 @@
 {
-  "generatedAt": "2026-09-08T05:01:19.415Z",
-  "listingCount": 4,
+  "generatedAt": "2026-09-08T06:01:35.349Z",
+  "listingCount": 5,
   "listings": [
+    {
+      "id": 28585,
+      "uniqueId": "bus28585",
+      "listingType": "business",
+      "heading": "Thriving Hotel Business for Sale – Turnkey Opportunity in Prime Location",
+      "description": "Established for over two decades, this thriving hotel business presents an exceptional opportunity for investors and hospitality entrepreneurs alike. Ideally positioned in a sought-after location with excellent transport links and strong tourist appeal, the property enjoys consistent year-round occupancy and an enviable reputation for quality and service. With a loyal customer base and steady stream of repeat bookings, this is a turnkey operation ready for its next owner to step in and continue its proven success.<br /><br />The hotel comprises well-appointed guest rooms, each tastefully furnished and maintained to a high standard, alongside a range of impressive facilities. These include a licensed restaurant and bar, function and conference spaces, ample on-site parking, and beautifully presented communal areas. The business benefits from a diverse revenue stream spanning accommodation, dining, events, and private functions, providing financial stability and multiple avenues for continued growth.<br /><br />Financially, the business demonstrates strong and sustainable performance, supported by detailed trading accounts available to genuine, qualified purchasers. A dedicated and experienced team is in place across all departments, ensuring a smooth transition and continuity of operations. The current owners are willing to provide a comprehensive handover period, offering valuable insight and support to help the new proprietor hit the ground running from day one.<br /><br />This is a rare chance to acquire a profitable and well-regarded hotel with significant scope for further development, whether through enhanced marketing, expanded event offerings, or refurbishment of existing facilities. Offered as a going concern, the sale represents outstanding value for anyone looking to enter or expand within the hospitality sector. Early viewing is highly recommended to fully appreciate the quality and potential this remarkable business has to offer.<br /><br />\r\n\r\n",
+      "displayPrice": "POA",
+      "sold": false,
+      "archived": false,
+      "underContract": false,
+      "address": {
+        "street": "2A  Wests Rd ",
+        "suburb": "MARIBYRNONG",
+        "state": "VIC",
+        "postcode": "3032",
+        "country": "Australia"
+      },
+      "categories": [
+        "193",
+        "6",
+        "14"
+      ],
+      "photos": [
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7116778.jpeg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7116778.jpeg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7116778.jpeg"
+        }
+      ],
+      "brochure": null,
+      "salesPeople": [
+        {
+          "name": "Liz Galea",
+          "email": "liz@stellarbrokers.com.au",
+          "phone": "",
+          "mobile": "0417 334 298",
+          "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
+        }
+      ],
+      "customFields": [],
+      "dateUpdated": "2026-09-08T05:20:20Z"
+    },
     {
       "id": 25672,
       "uniqueId": "bus25672",
       "listingType": "business",
       "heading": "Quest Midland leasehold ",
-      "description": "Quest Midland offers the prospective purchaser the leasehold interest of a 102 key serviced apartment<br />building comprising studio, one and two bedroom apartments with fully equipped kitchens, bathrooms,<br />laundry facilities, separate living and dining areas in one bed apartments, internet access, Foxtel, DVD,<br />stereo and quality furniture and fittings. Quest Midland also has a Swimming pool & Gym on site.<br /><br />\r\n\r\n",
+      "description": "Quest Midland offers the prospective purchaser the leasehold interest of a 102 key serviced apartment building comprising studio, one and two bedroom apartments with fully equipped kitchens, bathrooms, laundry facilities, separate living and dining areas in one bed apartments, internet access, Foxtel, DVD, stereo and quality furniture and fittings. Quest Midland also has a Swimming pool & Gym on site.<br /><br />\r\n\r\n",
       "displayPrice": "SOLD",
       "sold": true,
       "archived": false,
@@ -42,7 +84,7 @@
         }
       ],
       "customFields": [],
-      "dateUpdated": "2026-09-08T02:11:18Z"
+      "dateUpdated": "2026-09-08T05:51:56Z"
     },
     {
       "id": 22796,
