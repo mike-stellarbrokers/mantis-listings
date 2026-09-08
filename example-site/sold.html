@@ -83,7 +83,7 @@
   // to actually show up here, the sync script needs to have been run with
   // MANTIS_INCLUDE_SOLD=true (see .env.example) so Mantis returns them in
   // the first place.
-  fetch("/listings.json")
+  fetch("../listings.json")
     .then((r) => {
       if (!r.ok) throw new Error("listings.json not found — run `npm run sync` first");
       return r.json();
