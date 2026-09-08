@@ -19,6 +19,9 @@
   }
   header h1 { margin: 0; font-size: 20px; }
   header p { margin: 4px 0 0; color: #666; font-size: 14px; }
+  header nav { margin-top: 10px; font-size: 14px; }
+  header nav a { color: #666; text-decoration: none; margin-right: 16px; }
+  header nav a.active { color: #1c1c1c; font-weight: 600; }
   main { padding: 24px 32px; max-width: 1100px; margin: 0 auto; }
   .grid {
     display: grid;
@@ -50,6 +53,10 @@
 <header>
   <h1>Businesses for Sale</h1>
   <p>Example page — renders listings.json produced by fetch-listings.js</p>
+  <nav>
+    <a href="index.html" class="active">Businesses for Sale</a>
+    <a href="sold.html">Sold</a>
+  </nav>
 </header>
 <main>
   <div id="content" class="empty">Loading listings…</div>
