@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:01:35.349Z",
+  "generatedAt": "2026-09-08T06:07:30.133Z",
   "listingCount": 5,
   "listings": [
     {
@@ -71,6 +71,21 @@
           "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7086516.jpg",
           "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7086516.jpg",
           "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7086516.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7146839.png",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7146839.png",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7146839.png"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7146840.png",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7146840.png",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7146840.png"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7146841.png",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7146841.png",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7146841.png"
         }
       ],
       "brochure": null,
@@ -84,7 +99,7 @@
         }
       ],
       "customFields": [],
-      "dateUpdated": "2026-09-08T05:51:56Z"
+      "dateUpdated": "2026-09-08T06:06:48Z"
     },
     {
       "id": 22796,
