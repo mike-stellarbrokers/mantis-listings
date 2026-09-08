@@ -43,5 +43,3 @@ jobs:
           git add listings.json
           git diff --staged --quiet || git commit -m "Sync listings from MantisProperty [skip ci]"
           git push
-
-          Add sync workflow content", and commit directly to main.
