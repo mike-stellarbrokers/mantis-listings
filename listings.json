@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T02:01:28.104Z",
-  "listingCount": 3,
+  "generatedAt": "2026-09-08T02:22:51.752Z",
+  "listingCount": 4,
   "listings": [
     {
       "id": 25672,
@@ -8,8 +8,8 @@
       "listingType": "business",
       "heading": "Quest Midland leasehold ",
       "description": "Quest Midland offers the prospective purchaser the leasehold interest of a 102 key serviced apartment<br />building comprising studio, one and two bedroom apartments with fully equipped kitchens, bathrooms,<br />laundry facilities, separate living and dining areas in one bed apartments, internet access, Foxtel, DVD,<br />stereo and quality furniture and fittings. Quest Midland also has a Swimming pool & Gym on site.<br /><br />\r\n\r\n",
-      "displayPrice": "$5,995,000",
-      "sold": false,
+      "displayPrice": "SOLD",
+      "sold": true,
       "archived": false,
       "underContract": true,
       "address": {
@@ -39,17 +39,10 @@
           "phone": "",
           "mobile": "0417 334 298",
           "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
-        },
-        {
-          "name": "Mike Low",
-          "email": "mike@stellarbrokers.com.au",
-          "phone": "",
-          "mobile": "0401 935 928",
-          "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_27280-422707.png"
         }
       ],
       "customFields": [],
-      "dateUpdated": "2026-08-31T01:14:05Z"
+      "dateUpdated": "2026-09-08T02:11:18Z"
     },
     {
       "id": 22796,
@@ -172,6 +165,118 @@
       ],
       "customFields": [],
       "dateUpdated": "2026-06-02T07:26:16Z"
+    },
+    {
+      "id": 21513,
+      "uniqueId": "bus21513",
+      "listingType": "business",
+      "heading": "EXCLUSIVE LISTING! QUEST FLEMINGTON CENTRAL | A UNIQUE INNER-CITY ACCOMMODATION OPPORTUNITY",
+      "description": "A proven performer. A premium fit-out. An exceptional Flemington location. Quest Flemington Central presents a rare opportunity to acquire a high-performing serviced accommodation business in one of Melbourne’s most tightly held inner-city locations.<br /><br />Distinctive, design-forward interiors set this property apart, featuring Italian furniture from Venice, Australian-made sofas, silk rugs and premium kitchen fittings. Guests enjoy an impressive range of onsite facilities including a secure car park, fully equipped gym and rooftop lap pool with panoramic 360° views across Melbourne and Flemington Racecourse.<br /><br />Ideally positioned in the heart of Flemington, the property offers exceptional connectivity with Newmarket Train Station and tram services along Mount Alexander Road, providing direct access to Melbourne CBD and surrounding employment precincts. Newmarket Plaza and Highpoint Shopping Centre are also within easy reach.<br /><br />A STRONG AND DIVERSE DEMAND PROFILE<br />Quest Flemington Central benefits from multiple established sources of year-round accommodation demand, including:<br />Royal Women’s Hospital & Royal Children’s Hospital<br />$1.5 billion Footscray Hospital redevelopment<br />Flemington Racecourse<br />State Hockey Centre<br />Victorian Racing Club (VRC) partnerships<br />Melbourne’s ports and surrounding corporate precincts<br /><br />With limited direct competition in Flemington, a distinctive premium fit-out and a diverse demand base spanning medical, corporate, sporting and leisure markets, Quest Flemington Central offers an outstanding combination of location, amenity and established trading performance.<br /><br />A standout opportunity to acquire a differentiated serviced accommodation business in one of Melbourne’s most dynamic inner-city precincts.<br /><br />\r\n\r\n",
+      "displayPrice": "$3,995,000",
+      "sold": false,
+      "archived": false,
+      "underContract": false,
+      "address": {
+        "street": "",
+        "suburb": "FLEMINGTON",
+        "state": "VIC",
+        "postcode": "3031",
+        "country": "Australia"
+      },
+      "categories": [
+        "1",
+        "0",
+        "0"
+      ],
+      "photos": [
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693346.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693346.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693346.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693347.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693347.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693347.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693343.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693343.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693343.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693344.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693344.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693344.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693339.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693339.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693339.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693340.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693340.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693340.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693336.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693336.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693336.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693342.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693342.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693342.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693335.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693335.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693335.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693334.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693334.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693334.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693348.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693348.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693348.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693337.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693337.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693337.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693338.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693338.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693338.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693341.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693341.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693341.jpg"
+        },
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693349.png",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693349.png",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693349.png"
+        }
+      ],
+      "brochure": null,
+      "salesPeople": [
+        {
+          "name": "Liz Galea",
+          "email": "liz@stellarbrokers.com.au",
+          "phone": "",
+          "mobile": "0417 334 298",
+          "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
+        }
+      ],
+      "customFields": [],
+      "dateUpdated": "2026-09-08T02:15:58Z"
     },
     {
       "id": 21204,
