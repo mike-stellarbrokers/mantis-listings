@@ -51,15 +51,24 @@ jobs:
           fi
           git commit -m "Sync listings from MantisProperty [skip ci]"
 
-          # If another run pushed in the meantime, pull+rebase and retry
-          # instead of failing outright.
+          # If another run pushed in the meantime, catch up and retry.
+          # listings.json is fully regenerated from Mantis every run (not
+          # hand-edited), so there's nothing to line-merge — a rebase can
+          # hit a real conflict (e.g. two runs both changing the
+          # "generatedAt" timestamp) and get stuck. Instead, just move our
+          # already-made commit on top of the latest main and recommit.
           for i in 1 2 3 4 5; do
             if git push; then
               exit 0
             fi
-            echo "Push rejected, retrying after rebase (attempt $i)..."
+            echo "Push rejected, retrying (attempt $i)..."
             git fetch origin main
-            git rebase origin/main
+            git reset --soft origin/main
+            if git diff --staged --quiet; then
+              echo "Another run already published this data. Nothing more to do."
+              exit 0
+            fi
+            git commit -m "Sync listings from MantisProperty [skip ci]"
           done
           echo "Failed to push after retries."
           exit 1
