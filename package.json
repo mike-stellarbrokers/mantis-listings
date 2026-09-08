@@ -1,0 +1,13 @@
+{
+  "name": "stellar-mantis-listings-sync",
+  "version": "1.0.0",
+  "description": "Pulls property/business listings from the MantisProperty CRM API and writes them to a static listings.json file for the Stellar Accommodation Brokers website.",
+  "type": "module",
+  "scripts": {
+    "sync": "node fetch-listings.js",
+    "serve-example": "node -e \"const {createServer}=require('http');const {readFileSync}=require('fs');const path=require('path');const root=path.join(__dirname,'example-site');const mime={'.html':'text/html','.js':'text/javascript','.json':'application/json','.css':'text/css'};createServer((req,res)=>{let p=req.url==='/'?'/index.html':req.url;let file=path.join(req.url.startsWith('/listings.json')?__dirname:root,p);try{const data=readFileSync(file);const ext=path.extname(file);res.writeHead(200,{'Content-Type':mime[ext]||'text/plain'});res.end(data);}catch(e){res.writeHead(404);res.end('Not found');}}).listen(8080,()=>console.log('http://localhost:8080'))\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
