@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T00:02:31.530Z",
+  "generatedAt": "2026-09-09T00:40:34.122Z",
   "listingCount": 5,
   "listings": [
     {
@@ -7,7 +7,7 @@
       "uniqueId": "bus28585",
       "listingType": "business",
       "heading": "Thriving Hotel Business for Sale – Turnkey Opportunity in Prime Location",
-      "description": "Established for over two decades, this thriving hotel business presents an exceptional opportunity for investors and hospitality entrepreneurs alike. Ideally positioned in a sought-after location with excellent transport links and strong tourist appeal, the property enjoys consistent year-round occupancy and an enviable reputation for quality and service. With a loyal customer base and steady stream of repeat bookings, this is a turnkey operation ready for its next owner to step in and continue its proven success.<br /><br />The hotel comprises well-appointed guest rooms, each tastefully furnished and maintained to a high standard, alongside a range of impressive facilities. These include a licensed restaurant and bar, function and conference spaces, ample on-site parking, and beautifully presented communal areas. The business benefits from a diverse revenue stream spanning accommodation, dining, events, and private functions, providing financial stability and multiple avenues for continued growth.<br /><br />Financially, the business demonstrates strong and sustainable performance, supported by detailed trading accounts available to genuine, qualified purchasers. A dedicated and experienced team is in place across all departments, ensuring a smooth transition and continuity of operations. The current owners are willing to provide a comprehensive handover period, offering valuable insight and support to help the new proprietor hit the ground running from day one.<br /><br />This is a rare chance to acquire a profitable and well-regarded hotel with significant scope for further development, whether through enhanced marketing, expanded event offerings, or refurbishment of existing facilities. Offered as a going concern, the sale represents outstanding value for anyone looking to enter or expand within the hospitality sector. Early viewing is highly recommended to fully appreciate the quality and potential this remarkable business has to offer.<br /><br />\r\n\r\n",
+      "description": "<br /><br />\r\n\r\n",
       "displayPrice": "POA",
       "sold": false,
       "archived": false,
@@ -42,7 +42,7 @@
         }
       ],
       "customFields": [],
-      "dateUpdated": "2026-09-08T05:20:20Z"
+      "dateUpdated": "2026-09-09T00:35:05Z"
     },
     {
       "id": 25672,
@@ -252,6 +252,11 @@
           "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693346.jpg"
         },
         {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7146980.png",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7146980.png",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7146980.png"
+        },
+        {
           "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693347.jpg",
           "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693347.jpg",
           "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693347.jpg"
@@ -260,11 +265,6 @@
           "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693343.jpg",
           "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693343.jpg",
           "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693343.jpg"
-        },
-        {
-          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693344.jpg",
-          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_6693344.jpg",
-          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_6693344.jpg"
         },
         {
           "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_6693339.jpg",
@@ -333,7 +333,7 @@
         }
       ],
       "customFields": [],
-      "dateUpdated": "2026-09-08T03:07:31Z"
+      "dateUpdated": "2026-09-09T00:39:56Z"
     },
     {
       "id": 21204,
