@@ -1,49 +1,7 @@
 {
-  "generatedAt": "2026-09-09T02:01:36.492Z",
-  "listingCount": 5,
+  "generatedAt": "2026-09-09T02:06:42.511Z",
+  "listingCount": 4,
   "listings": [
-    {
-      "id": 28585,
-      "uniqueId": "bus28585",
-      "listingType": "business",
-      "heading": "Turnkey Opportunity in Prime Location",
-      "description": "<br /><br />\r\n\r\n",
-      "displayPrice": "POA",
-      "sold": false,
-      "archived": false,
-      "underContract": false,
-      "address": {
-        "street": "2A  Wests Rd ",
-        "suburb": "MARIBYRNONG",
-        "state": "VIC",
-        "postcode": "3032",
-        "country": "Australia"
-      },
-      "categories": [
-        "193",
-        "6",
-        "14"
-      ],
-      "photos": [
-        {
-          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7116778.jpeg",
-          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7116778.jpeg",
-          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7116778.jpeg"
-        }
-      ],
-      "brochure": null,
-      "salesPeople": [
-        {
-          "name": "Liz Galea",
-          "email": "liz@stellarbrokers.com.au",
-          "phone": "",
-          "mobile": "0417 334 298",
-          "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
-        }
-      ],
-      "customFields": [],
-      "dateUpdated": "2026-09-09T01:04:19Z"
-    },
     {
       "id": 25672,
       "uniqueId": "bus25672",
@@ -53,7 +11,7 @@
       "displayPrice": "SOLD",
       "sold": true,
       "archived": false,
-      "underContract": true,
+      "underContract": false,
       "address": {
         "street": "3 The Crescent",
         "suburb": "MIDLAND",
@@ -99,7 +57,7 @@
         }
       ],
       "customFields": [],
-      "dateUpdated": "2026-09-08T23:27:23Z"
+      "dateUpdated": "2026-09-09T02:05:13Z"
     },
     {
       "id": 22796,
