@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T02:01:41.899Z",
+  "generatedAt": "2026-09-14T03:01:27.100Z",
   "listingCount": 3,
   "listings": [
     {
@@ -60,6 +60,10 @@
         {
           "name": "Listing Type",
           "value": "Leasehold"
+        },
+        {
+          "name": "Sold Price",
+          "value": ""
         }
       ],
       "dateUpdated": "2026-09-14T01:30:24Z"
@@ -187,6 +191,10 @@
         {
           "name": "Listing Type",
           "value": "Leasehold"
+        },
+        {
+          "name": "Sold Price",
+          "value": ""
         }
       ],
       "dateUpdated": "2026-09-14T01:30:47Z"
@@ -294,6 +302,10 @@
         {
           "name": "Listing Type",
           "value": "Leasehold"
+        },
+        {
+          "name": "Sold Price",
+          "value": ""
         }
       ],
       "dateUpdated": "2026-09-14T01:37:53Z"
