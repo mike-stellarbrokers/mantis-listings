@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:01:27.100Z",
+  "generatedAt": "2026-09-14T03:28:51.971Z",
   "listingCount": 3,
   "listings": [
     {
@@ -63,10 +63,10 @@
         },
         {
           "name": "Sold Price",
-          "value": ""
+          "value": "$5,995,000"
         }
       ],
-      "dateUpdated": "2026-09-14T01:30:24Z"
+      "dateUpdated": "2026-09-14T03:25:25Z"
     },
     {
       "id": 22796,
@@ -194,10 +194,10 @@
         },
         {
           "name": "Sold Price",
-          "value": ""
+          "value": "$2,290,000"
         }
       ],
-      "dateUpdated": "2026-09-14T01:30:47Z"
+      "dateUpdated": "2026-09-14T03:26:12Z"
     },
     {
       "id": 21204,
@@ -305,10 +305,10 @@
         },
         {
           "name": "Sold Price",
-          "value": ""
+          "value": "$1,480,000"
         }
       ],
-      "dateUpdated": "2026-09-14T01:37:53Z"
+      "dateUpdated": "2026-09-14T03:26:31Z"
     }
   ]
 }
