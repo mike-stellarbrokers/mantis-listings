@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:02:34.098Z",
+  "generatedAt": "2026-09-14T02:01:41.899Z",
   "listingCount": 3,
   "listings": [
     {
@@ -56,8 +56,13 @@
           "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
         }
       ],
-      "customFields": [],
-      "dateUpdated": "2026-09-09T02:05:13Z"
+      "customFields": [
+        {
+          "name": "Listing Type",
+          "value": "Leasehold"
+        }
+      ],
+      "dateUpdated": "2026-09-14T01:30:24Z"
     },
     {
       "id": 22796,
@@ -178,8 +183,13 @@
           "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
         }
       ],
-      "customFields": [],
-      "dateUpdated": "2026-06-02T07:26:16Z"
+      "customFields": [
+        {
+          "name": "Listing Type",
+          "value": "Leasehold"
+        }
+      ],
+      "dateUpdated": "2026-09-14T01:30:47Z"
     },
     {
       "id": 21204,
@@ -280,8 +290,13 @@
           "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
         }
       ],
-      "customFields": [],
-      "dateUpdated": "2025-12-09T04:31:11Z"
+      "customFields": [
+        {
+          "name": "Listing Type",
+          "value": "Leasehold"
+        }
+      ],
+      "dateUpdated": "2026-09-14T01:37:53Z"
     }
   ]
 }
