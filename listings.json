@@ -1,7 +1,58 @@
 {
-  "generatedAt": "2026-09-20T23:18:52.618Z",
-  "listingCount": 3,
+  "generatedAt": "2026-09-20T23:21:51.799Z",
+  "listingCount": 4,
   "listings": [
+    {
+      "id": 29570,
+      "uniqueId": "bus29570",
+      "listingType": "business",
+      "heading": "UPCOMING EXCLUSIVE LISTING! A UNIQUE INNER-CITY ACCOMMODATION OPPORTUNITY",
+      "description": "This upcoming business represents a compelling combination of location, design and future growth potential. <br /><br />The business has established a strong trading history, delivering consistent performance and solid returns since opening. With a distinctive premium fit-out, excellent location and a proven demand profile, the property offers an attractive platform for continued growth.<br /><br />The scale of the broader complex also provides potential to expand the accommodation inventory over time, adding another layer of upside for an incoming operator.<br /><br />A well-established, high-quality accommodation business with strong fundamentals and genuine future potential.<br /><br />\r\n\r\n",
+      "displayPrice": "$3,995,000",
+      "sold": false,
+      "archived": false,
+      "underContract": false,
+      "address": {
+        "street": "",
+        "suburb": "",
+        "state": "VIC",
+        "postcode": "3031",
+        "country": "Australia"
+      },
+      "categories": [
+        "193",
+        "0",
+        "0"
+      ],
+      "photos": [
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7167119.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7167119.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7167119.jpg"
+        }
+      ],
+      "brochure": null,
+      "salesPeople": [
+        {
+          "name": "Liz Galea",
+          "email": "liz@stellarbrokers.com.au",
+          "phone": "",
+          "mobile": "0417 334 298",
+          "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
+        }
+      ],
+      "customFields": [
+        {
+          "name": "Listing Type",
+          "value": "Leasehold"
+        },
+        {
+          "name": "Sold Price",
+          "value": ""
+        }
+      ],
+      "dateUpdated": "2026-09-20T23:21:34Z"
+    },
     {
       "id": 25672,
       "uniqueId": "bus25672",
