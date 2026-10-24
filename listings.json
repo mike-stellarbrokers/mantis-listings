@@ -1,58 +1,7 @@
 {
-  "generatedAt": "2026-10-24T00:05:49.281Z",
+  "generatedAt": "2026-10-24T05:08:52.471Z",
   "listingCount": 5,
   "listings": [
-    {
-      "id": 29570,
-      "uniqueId": "bus29570",
-      "listingType": "business",
-      "heading": "UPCOMING EXCLUSIVE LISTING! A UNIQUE INNER-CITY ACCOMMODATION OPPORTUNITY",
-      "description": "Coming soon! This upcoming business in Melbourne's inner west represents a compelling combination of location, design and future growth potential.<br /><br />\r\n\r\n",
-      "displayPrice": "POA",
-      "sold": false,
-      "archived": false,
-      "underContract": false,
-      "address": {
-        "street": "",
-        "suburb": "",
-        "state": "VIC",
-        "postcode": "3031",
-        "country": "Australia"
-      },
-      "categories": [
-        "193",
-        "0",
-        "0"
-      ],
-      "photos": [
-        {
-          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7167119.jpg",
-          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7167119.jpg",
-          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7167119.jpg"
-        }
-      ],
-      "brochure": null,
-      "salesPeople": [
-        {
-          "name": "Liz Galea",
-          "email": "liz@stellarbrokers.com.au",
-          "phone": "",
-          "mobile": "0417 334 298",
-          "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
-        }
-      ],
-      "customFields": [
-        {
-          "name": "Listing Type",
-          "value": "Leasehold"
-        },
-        {
-          "name": "Sold Price",
-          "value": ""
-        }
-      ],
-      "dateUpdated": "2026-09-21T21:37:48Z"
-    },
     {
       "id": 29571,
       "uniqueId": "bus29571",
@@ -103,6 +52,57 @@
         }
       ],
       "dateUpdated": "2026-09-21T21:36:38Z"
+    },
+    {
+      "id": 29570,
+      "uniqueId": "bus29570",
+      "listingType": "business",
+      "heading": "UPCOMING EXCLUSIVE LISTING! A UNIQUE INNER-CITY ACCOMMODATION OPPORTUNITY",
+      "description": "Coming soon! This upcoming business in Melbourne's inner west represents a compelling combination of location, design and future growth potential.<br /><br />\r\n\r\n",
+      "displayPrice": "POA",
+      "sold": false,
+      "archived": false,
+      "underContract": false,
+      "address": {
+        "street": "",
+        "suburb": "",
+        "state": "VIC",
+        "postcode": "3031",
+        "country": "Australia"
+      },
+      "categories": [
+        "193",
+        "0",
+        "0"
+      ],
+      "photos": [
+        {
+          "full": "https://dcvut9d9kis5d.cloudfront.net/agent1478_business_extra_7167119.jpg",
+          "thumbnail": "https://dcvut9d9kis5d.cloudfront.net/agent1478_th_business_extra_7167119.jpg",
+          "mid": "https://dcvut9d9kis5d.cloudfront.net/agent1478_mid_business_extra_7167119.jpg"
+        }
+      ],
+      "brochure": null,
+      "salesPeople": [
+        {
+          "name": "Liz Galea",
+          "email": "liz@stellarbrokers.com.au",
+          "phone": "",
+          "mobile": "0417 334 298",
+          "photo": "https://www.mantispropertyprocessing.com/database/images/salesperson_26428-1952008976.jpg"
+        }
+      ],
+      "customFields": [
+        {
+          "name": "Listing Type",
+          "value": "Leasehold"
+        },
+        {
+          "name": "Sold Price",
+          "value": ""
+        }
+      ],
+      "dateUpdated": "2026-09-21T21:37:48Z"
     },
     {
       "id": 25672,
